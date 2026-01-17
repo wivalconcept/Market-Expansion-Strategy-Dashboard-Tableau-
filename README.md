@@ -138,8 +138,6 @@ Business Analytics: Market expansion analysis
 
 Data Storytelling: Translating data into executive-level insights
 
-📂 Repository Structure
-
 market-expansion-strategy/
 │
 ├── README.md
