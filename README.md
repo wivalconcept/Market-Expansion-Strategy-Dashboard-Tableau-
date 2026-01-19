@@ -128,6 +128,19 @@ Product × Channel × Country comparisons
 🔗 Interactive Dashboard (Tableau Public):
 (Add your Tableau Public link here)
 
+## 🔗 Interactive Tableau Dashboard
+
+Explore the full interactive dashboard I built in Tableau Public:
+
+🔗 https://public.tableau.com/views/ProjectMarketExpansionStrategyCanada/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Use the filters and navigation to explore:
+- Revenue by Country
+- Monthly Channel Trends
+- Product Category Performance
+- Seasonal Insights for Market Expansion
+
+
 🛠 Tools & Skills Demonstrated
 
 Tableau: Dashboard design, filters, calculated fields, relationships
